@@ -1,0 +1,7043 @@
+Daniel Darcy
+Gupta TR 1:00
+March 29 2018
+Assignment 4
+
+*****************************************************************************************
+
+Enter first the input file name followed by the output file name separated by a space on the line below: 
+starwars.txt starwars.txt
+
+Average insert time:   4584 nanoseconds
+Min: ADMIRAL ACKBAR
+Max: LUKE
+
+Items found! 
+Search for min took 63621 nanoseconds.
+Search for max took 9306 nanoseconds.
+
+PREORDER TRAVERSAL:
+ADMIRAL ACKBAR, ANAKIN, ADMIRAL STATURA, BAIL ORGANA, BIB FORTUNA, BALA-TIK, BB-8, BRAVO THREE, CAPTAIN PANAKA, CAMIE, BIGGS, COLONEL DATOO,  
+BERU, BOBA FETT, CHEWBACCA, C-3PO, DOFINE, CLIEGG, HAN, FANG ZAR, CAPTAIN ANTILLES, BRAVO TWO, BOUSHH, GENERAL GRIEVOUS,  
+ELLO ASTY, CLONE COMMANDER CODY, BOSS NASS, CLONE COMMANDER GREE, MON MOTHMA, DACK, JANSON, OBI-WAN, JIRA, LAMA SU, GREEDO, COUNT DOOKU,  
+GOLD FIVE, POGGLE, PLO KOON, MACE WINDU, JABBA, MOTTI, DODONNA, DERLIN, DARTH VADER, CAPTAIN TYPHO, DARTH MAUL, POE,  
+GENERAL HUX, GENERAL CEEL, EMPEROR, NIV LEK, FINN, FODE/BEED, CAPTAIN PHASMA, LOR SAN TEKKA, KI-ADI-MUNDI, SHMI, ODD BALL, RUNE,  
+JAR JAR, LANDO, SEBULBA, RED LEADER, VALORUM, WALD, OWEN, WEDGE, TARPALS, WATTO, PK-4, LEIA,  
+SENATOR ASK AAK, JOBAL, ORN FREE TAA, RED TEN, SOLA, SUN RIT, SIO BIBBLE, PADME, TION MEDON, ON MEDON, MAD MADDA, TAUN WE,  
+NUTE GUNRAY, RIEEKAN, GIDDEAN DANU, QUI-GON, OZZEL, ZEV, NEEDA, JERJERROD, GOLD LEADER, RABE, REY, R2-D2,  
+SNAP, JANGO FETT, SNOKE, TARKIN, KYLO REN, TEY HOW, JESS, YODA, YOLO ZIFF, TC-14, KITSTER, RUWEE,  
+MAZ, PIETT, LIEUTENANT MITAKA, UNKAR PLUTT, RIC OLIE, LUKE, 
+
+ANAKIN was found!
+Array index is 2
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1582 nanoseconds
+
+DARTH VADER was found!
+Array index is 45
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5775 nanoseconds
+
+OBI-WAN was found!
+Array index is 32
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2674 nanoseconds
+
+C-3PO was found!
+Array index is 16
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1712 nanoseconds
+
+R2-D2 was found!
+Array index is 96
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8678 nanoseconds
+
+CHEWBACCA was found!
+Array index is 15
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1650 nanoseconds
+
+HAN was found!
+Array index is 19
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1787 nanoseconds
+
+LEIA was found!
+Array index is 72
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6143 nanoseconds
+
+PADME was found!
+Array index is 80
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8892 nanoseconds
+
+QUI-GON was found!
+Array index is 88
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10511 nanoseconds
+
+EMPEROR was found!
+Array index is 51
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6028 nanoseconds
+
+YODA was found!
+Array index is 104
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7861 nanoseconds
+
+JAR JAR was found!
+Array index is 61
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 6943 nanoseconds
+
+LANDO was found!
+Array index is 62
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 7335 nanoseconds
+
+RED LEADER was found!
+Array index is 64
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4977 nanoseconds
+
+WEDGE was found!
+Array index is 68
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5085 nanoseconds
+
+BAIL ORGANA was found!
+Array index is 4
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 772 nanoseconds
+
+CAPTAIN PANAKA was found!
+Array index is 9
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1271 nanoseconds
+
+MACE WINDU was found!
+Array index is 40
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 10925 nanoseconds
+
+NUTE GUNRAY was found!
+Array index is 85
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6565 nanoseconds
+
+BIGGS was found!
+Array index is 11
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1678 nanoseconds
+
+GOLD LEADER was found!
+Array index is 93
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7118 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Array index is 24
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2061 nanoseconds
+
+TARKIN was found!
+Array index is 100
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7997 nanoseconds
+
+PIETT was found!
+Array index is 110
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8491 nanoseconds
+
+FODE/BEED was found!
+Array index is 54
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5420 nanoseconds
+
+RIC OLIE was found!
+Array index is 113
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9095 nanoseconds
+
+SHMI was found!
+Array index is 58
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4418 nanoseconds
+
+RUNE was found!
+Array index is 60
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4346 nanoseconds
+
+BOBA FETT was found!
+Array index is 14
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1530 nanoseconds
+
+OWEN was found!
+Array index is 67
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7016 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Array index is 1
+Tree depth is 0
+This node is not a leaf
+Size of subtree is 114
+Search time is 652 nanoseconds
+
+WATTO was found!
+Array index is 70
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5443 nanoseconds
+
+LAMA SU was found!
+Array index is 34
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2768 nanoseconds
+
+COUNT DOOKU was found!
+Array index is 36
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3082 nanoseconds
+
+GOLD FIVE was found!
+Array index is 37
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3178 nanoseconds
+
+RED TEN was found!
+Array index is 76
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8557 nanoseconds
+
+SIO BIBBLE was found!
+Array index is 79
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5851 nanoseconds
+
+JABBA was found!
+Array index is 41
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3491 nanoseconds
+
+MAD MADDA was found!
+Array index is 83
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6479 nanoseconds
+
+TAUN WE was found!
+Array index is 84
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6357 nanoseconds
+
+RIEEKAN was found!
+Array index is 86
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6692 nanoseconds
+
+CAPTAIN TYPHO was found!
+Array index is 46
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4004 nanoseconds
+
+ZEV was found!
+Array index is 90
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6192 nanoseconds
+
+DARTH MAUL was found!
+Array index is 47
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3826 nanoseconds
+
+BRAVO TWO was found!
+Array index is 22
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2122 nanoseconds
+
+JANGO FETT was found!
+Array index is 98
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 11370 nanoseconds
+
+BOSS NASS was found!
+Array index is 27
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2483 nanoseconds
+
+GENERAL CEEL was found!
+Array index is 50
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3915 nanoseconds
+
+TEY HOW was found!
+Array index is 102
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9529 nanoseconds
+
+TC-14 was found!
+Array index is 106
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8213 nanoseconds
+
+KITSTER was found!
+Array index is 107
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10675 nanoseconds
+
+RUWEE was found!
+Array index is 108
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8106 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Array index is 26
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2481 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Array index is 28
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2525 nanoseconds
+
+KI-ADI-MUNDI was found!
+Array index is 57
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4269 nanoseconds
+
+ODD BALL was found!
+Array index is 59
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4574 nanoseconds
+
+MON MOTHMA was found!
+Array index is 29
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2897 nanoseconds
+
+BERU was found!
+Array index is 13
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1543 nanoseconds
+
+DACK was found!
+Array index is 30
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2561 nanoseconds
+
+JANSON was found!
+Array index is 31
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2599 nanoseconds
+
+SEBULBA was found!
+Array index is 63
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4840 nanoseconds
+
+JIRA was found!
+Array index is 33
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2597 nanoseconds
+
+VALORUM was found!
+Array index is 65
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5139 nanoseconds
+
+WALD was found!
+Array index is 66
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4840 nanoseconds
+
+BRAVO THREE was found!
+Array index is 8
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1169 nanoseconds
+
+DOFINE was found!
+Array index is 17
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1772 nanoseconds
+
+TARPALS was found!
+Array index is 69
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5397 nanoseconds
+
+PK-4 was found!
+Array index is 71
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7214 nanoseconds
+
+GREEDO was found!
+Array index is 35
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2875 nanoseconds
+
+CLIEGG was found!
+Array index is 18
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1723 nanoseconds
+
+SENATOR ASK AAK was found!
+Array index is 73
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5648 nanoseconds
+
+JOBAL was found!
+Array index is 74
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8093 nanoseconds
+
+ORN FREE TAA was found!
+Array index is 75
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5774 nanoseconds
+
+POGGLE was found!
+Array index is 38
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3162 nanoseconds
+
+SOLA was found!
+Array index is 77
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 13299 nanoseconds
+
+SUN RIT was found!
+Array index is 78
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8025 nanoseconds
+
+PLO KOON was found!
+Array index is 39
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3246 nanoseconds
+
+FANG ZAR was found!
+Array index is 20
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1786 nanoseconds
+
+TION MEDON was found!
+Array index is 81
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5977 nanoseconds
+
+ON MEDON was found!
+Array index is 82
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6353 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Array index is 21
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2063 nanoseconds
+
+GIDDEAN DANU was found!
+Array index is 87
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6259 nanoseconds
+
+MOTTI was found!
+Array index is 42
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3539 nanoseconds
+
+CAMIE was found!
+Array index is 10
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1282 nanoseconds
+
+DODONNA was found!
+Array index is 43
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3649 nanoseconds
+
+DERLIN was found!
+Array index is 44
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3456 nanoseconds
+
+OZZEL was found!
+Array index is 89
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 20691 nanoseconds
+
+NEEDA was found!
+Array index is 91
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7205 nanoseconds
+
+BIB FORTUNA was found!
+Array index is 5
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 963 nanoseconds
+
+JERJERROD was found!
+Array index is 92
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10013 nanoseconds
+
+BOUSHH was found!
+Array index is 23
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2598 nanoseconds
+
+RABE was found!
+Array index is 94
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6670 nanoseconds
+
+REY was found!
+Array index is 95
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6818 nanoseconds
+
+POE was found!
+Array index is 48
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3458 nanoseconds
+
+SNAP was found!
+Array index is 97
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6888 nanoseconds
+
+GENERAL HUX was found!
+Array index is 49
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4205 nanoseconds
+
+SNOKE was found!
+Array index is 99
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7345 nanoseconds
+
+COLONEL DATOO was found!
+Array index is 12
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1633 nanoseconds
+
+KYLO REN was found!
+Array index is 101
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7652 nanoseconds
+
+JESS was found!
+Array index is 103
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7983 nanoseconds
+
+ELLO ASTY was found!
+Array index is 25
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2255 nanoseconds
+
+NIV LEK was found!
+Array index is 52
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5514 nanoseconds
+
+YOLO ZIFF was found!
+Array index is 105
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7746 nanoseconds
+
+FINN was found!
+Array index is 53
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4183 nanoseconds
+
+ADMIRAL STATURA was found!
+Array index is 3
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 793 nanoseconds
+
+CAPTAIN PHASMA was found!
+Array index is 55
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6561 nanoseconds
+
+MAZ was found!
+Array index is 109
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7729 nanoseconds
+
+BALA-TIK was found!
+Array index is 6
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 918 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Array index is 111
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7583 nanoseconds
+
+UNKAR PLUTT was found!
+Array index is 112
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7435 nanoseconds
+
+LOR SAN TEKKA was found!
+Array index is 56
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3753 nanoseconds
+
+BB-8 was found!
+Array index is 7
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 921 nanoseconds
+
+Average search took 5145 nanoseconds
+-------------------------------------------------------------------------------------
+Average insert time:   3581 nanoseconds
+Min: ZEV
+Max: BB-8
+
+Items found! 
+Search for min took 38028 nanoseconds.
+Search for max took 7623 nanoseconds.
+
+POSTORDER TRAVERSAL:
+BB-8, KI-ADI-MUNDI, CHEWBACCA, CLONE COMMANDER CODY, BALA-TIK, FODE/BEED, CAPTAIN PHASMA,  
+ADMIRAL STATURA, FINN, NIV LEK, EMPEROR, ELLO ASTY, GENERAL GRIEVOUS, GENERAL CEEL, COLONEL DATOO, GENERAL HUX, BOSS NASS, JANGO FETT, ANAKIN,  
+JERJERROD, BRAVO TWO, BOUSHH, DARTH MAUL, BIB FORTUNA, CAPTAIN TYPHO, DERLIN, BIGGS, DODONNA, CAMIE, MACE WINDU, GIDDEAN DANU,  
+CAPTAIN ANTILLES, JABBA, FANG ZAR, C-3PO, PLO KOON, HAN, POGGLE, CAPTAIN PANAKA, JOBAL, COUNT DOOKU, CLIEGG, BAIL ORGANA,  
+GREEDO, LAMA SU, LEIA, DOFINE, BRAVO THREE, ADMIRAL ACKBAR, JIRA, DARTH VADER, JANSON, BOBA FETT, DACK, BERU,  
+MON MOTHMA, LANDO, CLONE COMMANDER GREE, LOR SAN TEKKA, LIEUTENANT MITAKA, MAZ, KITSTER, PIETT, JESS, KYLO REN, R2-D2, POE,  
+RABE, GOLD LEADER, NEEDA, LUKE, NUTE GUNRAY, MOTTI, ON MEDON, MAD MADDA, SIO BIBBLE, RED TEN, ORN FREE TAA, GOLD FIVE,  
+PK-4, QUI-GON, RED LEADER, OWEN, RUNE, JAR JAR, ODD BALL, RIC OLIE, RUWEE, TARKIN, OBI-WAN, SNAP,  
+REY, OZZEL, PADME, RIEEKAN, SOLA, SENATOR ASK AAK, TARPALS, VALORUM, SEBULBA, SHMI, TC-14, SNOKE,  
+TAUN WE, TION MEDON, SUN RIT, WALD, UNKAR PLUTT, TEY HOW, WEDGE, WATTO, YOLO ZIFF, YODA, ZEV, 
+
+ANAKIN was found!
+Array index is 96
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7230 nanoseconds
+
+DARTH VADER was found!
+Array index is 64
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4652 nanoseconds
+
+LUKE was found!
+Array index is 44
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3465 nanoseconds
+
+OBI-WAN was found!
+Array index is 25
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2173 nanoseconds
+
+C-3PO was found!
+Array index is 80
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5462 nanoseconds
+
+R2-D2 was found!
+Array index is 49
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3527 nanoseconds
+
+CHEWBACCA was found!
+Array index is 112
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7727 nanoseconds
+
+HAN was found!
+Array index is 78
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5298 nanoseconds
+
+LEIA was found!
+Array index is 69
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4605 nanoseconds
+
+PADME was found!
+Array index is 21
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1769 nanoseconds
+
+QUI-GON was found!
+Array index is 34
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2609 nanoseconds
+
+EMPEROR was found!
+Array index is 104
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7131 nanoseconds
+
+YODA was found!
+Array index is 2
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 640 nanoseconds
+
+JAR JAR was found!
+Array index is 30
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2472 nanoseconds
+
+LANDO was found!
+Array index is 58
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4111 nanoseconds
+
+RED LEADER was found!
+Array index is 33
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2910 nanoseconds
+
+WEDGE was found!
+Array index is 5
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 920 nanoseconds
+
+BAIL ORGANA was found!
+Array index is 72
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4881 nanoseconds
+
+CAPTAIN PANAKA was found!
+Array index is 76
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 13352 nanoseconds
+
+MACE WINDU was found!
+Array index is 85
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5778 nanoseconds
+
+NUTE GUNRAY was found!
+Array index is 43
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3134 nanoseconds
+
+BIGGS was found!
+Array index is 88
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6504 nanoseconds
+
+GOLD LEADER was found!
+Array index is 46
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3407 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Array index is 102
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7013 nanoseconds
+
+TARKIN was found!
+Array index is 26
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2293 nanoseconds
+
+PIETT was found!
+Array index is 52
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3650 nanoseconds
+
+FODE/BEED was found!
+Array index is 109
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7310 nanoseconds
+
+RIC OLIE was found!
+Array index is 28
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2626 nanoseconds
+
+SHMI was found!
+Array index is 14
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1496 nanoseconds
+
+RUNE was found!
+Array index is 31
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2596 nanoseconds
+
+BOBA FETT was found!
+Array index is 62
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4364 nanoseconds
+
+OWEN was found!
+Array index is 32
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2526 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Array index is 66
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4648 nanoseconds
+
+WATTO was found!
+Array index is 4
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 806 nanoseconds
+
+LAMA SU was found!
+Array index is 70
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5043 nanoseconds
+
+COUNT DOOKU was found!
+Array index is 74
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4966 nanoseconds
+
+GOLD FIVE was found!
+Array index is 36
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2638 nanoseconds
+
+RED TEN was found!
+Array index is 38
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5854 nanoseconds
+
+SIO BIBBLE was found!
+Array index is 39
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3080 nanoseconds
+
+JABBA was found!
+Array index is 82
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6011 nanoseconds
+
+MAD MADDA was found!
+Array index is 40
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3067 nanoseconds
+
+TAUN WE was found!
+Array index is 11
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1285 nanoseconds
+
+RIEEKAN was found!
+Array index is 20
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1757 nanoseconds
+
+CAPTAIN TYPHO was found!
+Array index is 90
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6326 nanoseconds
+
+ZEV was found!
+Array index is 1
+Tree depth is 0
+This node is not a leaf
+Size of subtree is 114
+Search time is 485 nanoseconds
+
+DARTH MAUL was found!
+Array index is 92
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6327 nanoseconds
+
+BRAVO TWO was found!
+Array index is 94
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6530 nanoseconds
+
+JANGO FETT was found!
+Array index is 97
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6493 nanoseconds
+
+BOSS NASS was found!
+Array index is 98
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6831 nanoseconds
+
+GENERAL CEEL was found!
+Array index is 101
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6662 nanoseconds
+
+TEY HOW was found!
+Array index is 6
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 883 nanoseconds
+
+TC-14 was found!
+Array index is 13
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1466 nanoseconds
+
+KITSTER was found!
+Array index is 53
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4120 nanoseconds
+
+RUWEE was found!
+Array index is 27
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2343 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Array index is 111
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8151 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Array index is 57
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 6935 nanoseconds
+
+KI-ADI-MUNDI was found!
+Array index is 113
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7561 nanoseconds
+
+ODD BALL was found!
+Array index is 29
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2407 nanoseconds
+
+MON MOTHMA was found!
+Array index is 59
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4198 nanoseconds
+
+BERU was found!
+Array index is 60
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4135 nanoseconds
+
+DACK was found!
+Array index is 61
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4094 nanoseconds
+
+JANSON was found!
+Array index is 63
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4314 nanoseconds
+
+SEBULBA was found!
+Array index is 15
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1516 nanoseconds
+
+JIRA was found!
+Array index is 65
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4466 nanoseconds
+
+VALORUM was found!
+Array index is 16
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1540 nanoseconds
+
+WALD was found!
+Array index is 8
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1155 nanoseconds
+
+BRAVO THREE was found!
+Array index is 67
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4689 nanoseconds
+
+DOFINE was found!
+Array index is 68
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4516 nanoseconds
+
+TARPALS was found!
+Array index is 17
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2001 nanoseconds
+
+PK-4 was found!
+Array index is 35
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2679 nanoseconds
+
+GREEDO was found!
+Array index is 71
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4778 nanoseconds
+
+CLIEGG was found!
+Array index is 73
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4994 nanoseconds
+
+SENATOR ASK AAK was found!
+Array index is 18
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2487 nanoseconds
+
+JOBAL was found!
+Array index is 75
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5228 nanoseconds
+
+ORN FREE TAA was found!
+Array index is 37
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3975 nanoseconds
+
+POGGLE was found!
+Array index is 77
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7951 nanoseconds
+
+SOLA was found!
+Array index is 19
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1969 nanoseconds
+
+SUN RIT was found!
+Array index is 9
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1123 nanoseconds
+
+PLO KOON was found!
+Array index is 79
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5383 nanoseconds
+
+FANG ZAR was found!
+Array index is 81
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5621 nanoseconds
+
+TION MEDON was found!
+Array index is 10
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1172 nanoseconds
+
+ON MEDON was found!
+Array index is 41
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3161 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Array index is 83
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5916 nanoseconds
+
+GIDDEAN DANU was found!
+Array index is 84
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7858 nanoseconds
+
+MOTTI was found!
+Array index is 42
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3083 nanoseconds
+
+CAMIE was found!
+Array index is 86
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6124 nanoseconds
+
+DODONNA was found!
+Array index is 87
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8703 nanoseconds
+
+DERLIN was found!
+Array index is 89
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7652 nanoseconds
+
+OZZEL was found!
+Array index is 22
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1899 nanoseconds
+
+NEEDA was found!
+Array index is 45
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4846 nanoseconds
+
+BIB FORTUNA was found!
+Array index is 91
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6532 nanoseconds
+
+JERJERROD was found!
+Array index is 95
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6345 nanoseconds
+
+BOUSHH was found!
+Array index is 93
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9692 nanoseconds
+
+RABE was found!
+Array index is 47
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3544 nanoseconds
+
+REY was found!
+Array index is 23
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2011 nanoseconds
+
+POE was found!
+Array index is 48
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4986 nanoseconds
+
+SNAP was found!
+Array index is 24
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2991 nanoseconds
+
+GENERAL HUX was found!
+Array index is 99
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10173 nanoseconds
+
+SNOKE was found!
+Array index is 12
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1992 nanoseconds
+
+COLONEL DATOO was found!
+Array index is 100
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10095 nanoseconds
+
+KYLO REN was found!
+Array index is 50
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3709 nanoseconds
+
+JESS was found!
+Array index is 51
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3732 nanoseconds
+
+ELLO ASTY was found!
+Array index is 103
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7198 nanoseconds
+
+NIV LEK was found!
+Array index is 105
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10299 nanoseconds
+
+YOLO ZIFF was found!
+Array index is 3
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1090 nanoseconds
+
+FINN was found!
+Array index is 106
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7442 nanoseconds
+
+ADMIRAL STATURA was found!
+Array index is 107
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7698 nanoseconds
+
+CAPTAIN PHASMA was found!
+Array index is 108
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 20049 nanoseconds
+
+MAZ was found!
+Array index is 54
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3813 nanoseconds
+
+BALA-TIK was found!
+Array index is 110
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8458 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Array index is 55
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4526 nanoseconds
+
+UNKAR PLUTT was found!
+Array index is 7
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1068 nanoseconds
+
+LOR SAN TEKKA was found!
+Array index is 56
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4247 nanoseconds
+
+Average search took 4647 nanoseconds
+-------------------------------------------------------------------------------------
+Average insert time:   3942 nanoseconds
+Min: ADMIRAL ACKBAR
+Max: ZEV
+
+Items found!
+Search for min took 13153 nanoseconds.
+Search for max took 3574 nanoseconds.
+
+IN-ORDER TRAVERSAL:
+ADMIRAL ACKBAR, ADMIRAL STATURA, ANAKIN, BAIL ORGANA, BALA-TIK, BB-8, BERU, BIB FORTUNA, BIGGS, BOBA FETT, BOSS NASS, BOUSHH, BRAVO THREE, BRAVO TWO, 
+C-3PO, CAMIE, CAPTAIN ANTILLES, CAPTAIN PANAKA, CAPTAIN PHASMA, CAPTAIN TYPHO, CHEWBACCA, CLIEGG, CLONE COMMANDER CODY, CLONE COMMANDER GREE, COLONEL DATOO, COUNT DOOKU, DACK, DARTH MAUL, 
+DARTH VADER, DERLIN, DODONNA, DOFINE, ELLO ASTY, EMPEROR, FANG ZAR, FINN, FODE/BEED, GENERAL CEEL, GENERAL GRIEVOUS, GENERAL HUX, 
+GIDDEAN DANU, GOLD FIVE, GOLD LEADER, GREEDO, HAN, JABBA, JANGO FETT, JANSON, JAR JAR, JERJERROD, JESS, JIRA, JOBAL, 
+KI-ADI-MUNDI, KITSTER, KYLO REN, LAMA SU, LANDO, LEIA, LIEUTENANT MITAKA, LOR SAN TEKKA, LUKE, MACE WINDU, MAD MADDA, MAZ, 
+MON MOTHMA, MOTTI, NEEDA, NIV LEK, NUTE GUNRAY, OBI-WAN, ODD BALL, ON MEDON, ORN FREE TAA, OWEN, OZZEL, 
+PADME, PIETT, PK-4, PLO KOON, POE, POGGLE, QUI-GON, R2-D2, RABE, RED LEADER, RED TEN, REY, RIC OLIE, RIEEKAN, RUNE, RUWEE, SEBULBA, SENATOR ASK AAK, 
+SHMI, SIO BIBBLE, SNAP, SNOKE, SOLA, SUN RIT, TARKIN, TARPALS, TAUN WE, TC-14, 
+TEY HOW, TION MEDON, UNKAR PLUTT, VALORUM, WALD, WATTO, WEDGE, YODA, YOLO ZIFF, ZEV, 
+
+
+
+ANAKIN was found!
+Tree depth is 229
+This node is not a leaf
+Size of subtree is 7
+Search time is 1603 nanoseconds
+
+DARTH VADER was found!
+Tree depth is 223
+This node is not a leaf
+Size of subtree is 6
+Search time is 2410 nanoseconds
+
+LUKE was found!
+Tree depth is 171
+This node is not a leaf
+Size of subtree is 5
+Search time is 2386 nanoseconds
+
+OBI-WAN was found!
+Tree depth is 105
+This node is not a leaf
+Size of subtree is 4
+Search time is 2658 nanoseconds
+
+C-3PO was found!
+Tree depth is 51
+This node is not a leaf
+Size of subtree is 4
+Search time is 2157 nanoseconds
+
+R2-D2 was found!
+Tree depth is 87
+This node is not a leaf
+Size of subtree is 3
+Search time is 2918 nanoseconds
+
+CHEWBACCA was found!
+Tree depth is 27
+This node is not a leaf
+Size of subtree is 3
+Search time is 2521 nanoseconds
+
+HAN was found!
+Tree depth is 65
+This node is not a leaf
+Size of subtree is 3
+Search time is 2496 nanoseconds
+
+LEIA was found!
+Tree depth is 33
+This node is not a leaf
+Size of subtree is 2
+Search time is 2878 nanoseconds
+
+PADME was found!
+Tree depth is 25
+This node is not a leaf
+Size of subtree is 6
+Search time is 3261 nanoseconds
+
+QUI-GON was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 5
+Search time is 3438 nanoseconds
+
+EMPEROR was found!
+Tree depth is 31
+This node is not a leaf
+Size of subtree is 2
+Search time is 2850 nanoseconds
+
+YODA was found!
+Tree depth is 61
+This node is not a leaf
+Size of subtree is 2
+Search time is 3124 nanoseconds
+
+JAR JAR was found!
+Tree depth is 27
+This node is not a leaf
+Size of subtree is 4
+Search time is 3225 nanoseconds
+
+LANDO was found!
+Tree depth is 19
+This node is not a leaf
+Size of subtree is 3
+Search time is 4640 nanoseconds
+
+RED LEADER was found!
+Tree depth is 55
+This node is not a leaf
+Size of subtree is 7
+Search time is 3523 nanoseconds
+
+WEDGE was found!
+Tree depth is 51
+This node is not a leaf
+Size of subtree is 6
+Search time is 3887 nanoseconds
+
+BAIL ORGANA was found!
+Tree depth is 23
+This node is not a leaf
+Size of subtree is 6
+Search time is 2480 nanoseconds
+
+CAPTAIN PANAKA was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 2893 nanoseconds
+
+MACE WINDU was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 6
+Search time is 2768 nanoseconds
+
+NUTE GUNRAY was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 5
+Search time is 3050 nanoseconds
+
+BIGGS was found!
+Tree depth is 21
+This node is not a leaf
+Size of subtree is 5
+Search time is 2940 nanoseconds
+
+GOLD LEADER was found!
+Tree depth is 21
+This node is not a leaf
+Size of subtree is 1
+Search time is 3241 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 3
+Search time is 6856 nanoseconds
+
+TARKIN was found!
+Tree depth is 49
+This node is not a leaf
+Size of subtree is 5
+Search time is 4412 nanoseconds
+
+PIETT was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 4
+Search time is 3787 nanoseconds
+
+FODE/BEED was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 4016 nanoseconds
+
+RIC OLIE was found!
+Tree depth is 29
+This node is not a leaf
+Size of subtree is 4
+Search time is 4662 nanoseconds
+
+SHMI was found!
+Tree depth is 23
+This node is not a leaf
+Size of subtree is 3
+Search time is 4759 nanoseconds
+
+RUNE was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 3
+Search time is 5011 nanoseconds
+
+BOBA FETT was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 4
+Search time is 3378 nanoseconds
+
+OWEN was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 1
+Search time is 3454 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1807 nanoseconds
+
+WATTO was found!
+Tree depth is 19
+This node is not a leaf
+Size of subtree is 4
+Search time is 5935 nanoseconds
+
+LAMA SU was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 2
+Search time is 3845 nanoseconds
+
+COUNT DOOKU was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 2
+Search time is 2824 nanoseconds
+
+GOLD FIVE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 3806 nanoseconds
+
+RED TEN was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 4957 nanoseconds
+
+SIO BIBBLE was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 6331 nanoseconds
+
+JABBA was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 3302 nanoseconds
+
+MAD MADDA was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 4
+Search time is 3354 nanoseconds
+
+TAUN WE was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 3
+Search time is 5616 nanoseconds
+
+RIEEKAN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 6043 nanoseconds
+
+CAPTAIN TYPHO was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3607 nanoseconds
+
+ZEV was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3228 nanoseconds
+
+DARTH MAUL was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3058 nanoseconds
+
+BRAVO TWO was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 3
+Search time is 3365 nanoseconds
+
+JANGO FETT was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3546 nanoseconds
+
+BOSS NASS was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 4185 nanoseconds
+
+GENERAL CEEL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 4250 nanoseconds
+
+TEY HOW was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 2
+Search time is 4864 nanoseconds
+
+TC-14 was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 5161 nanoseconds
+
+KITSTER was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 1
+Search time is 3920 nanoseconds
+
+RUWEE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 16316 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 2
+Search time is 3319 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3414 nanoseconds
+
+KI-ADI-MUNDI was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 4100 nanoseconds
+
+ODD BALL was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 3686 nanoseconds
+
+MON MOTHMA was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 3
+Search time is 3622 nanoseconds
+
+BERU was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 3598 nanoseconds
+
+DACK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 3471 nanoseconds
+
+JANSON was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 4105 nanoseconds
+
+SEBULBA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 5690 nanoseconds
+
+JIRA was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 4509 nanoseconds
+
+VALORUM was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 5360 nanoseconds
+
+WALD was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 5529 nanoseconds
+
+BRAVO THREE was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 4175 nanoseconds
+
+DOFINE was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 3031 nanoseconds
+
+TARPALS was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 30957 nanoseconds
+
+PK-4 was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 3
+Search time is 1851 nanoseconds
+
+GREEDO was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1499 nanoseconds
+
+CLIEGG was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1766 nanoseconds
+
+SENATOR ASK AAK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2478 nanoseconds
+
+JOBAL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1977 nanoseconds
+
+ORN FREE TAA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2230 nanoseconds
+
+POGGLE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1846 nanoseconds
+
+SOLA was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 2185 nanoseconds
+
+SUN RIT was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1918 nanoseconds
+
+PLO KOON was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1894 nanoseconds
+
+FANG ZAR was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1615 nanoseconds
+
+TION MEDON was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2087 nanoseconds
+
+ON MEDON was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1850 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2239 nanoseconds
+
+GIDDEAN DANU was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1866 nanoseconds
+
+MOTTI was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1654 nanoseconds
+
+CAMIE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1505 nanoseconds
+
+DODONNA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1596 nanoseconds
+
+DERLIN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1489 nanoseconds
+
+OZZEL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2075 nanoseconds
+
+NEEDA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1864 nanoseconds
+
+BIB FORTUNA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1595 nanoseconds
+
+JERJERROD was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2150 nanoseconds
+
+BOUSHH was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2040 nanoseconds
+
+RABE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1414 nanoseconds
+
+REY was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2414 nanoseconds
+
+POE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2007 nanoseconds
+
+SNAP was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2052 nanoseconds
+
+GENERAL HUX was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1766 nanoseconds
+
+SNOKE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2359 nanoseconds
+
+COLONEL DATOO was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1846 nanoseconds
+
+KYLO REN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1925 nanoseconds
+
+JESS was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1818 nanoseconds
+
+ELLO ASTY was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1604 nanoseconds
+
+NIV LEK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1767 nanoseconds
+
+YOLO ZIFF was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1988 nanoseconds
+
+FINN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1762 nanoseconds
+
+ADMIRAL STATURA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1211 nanoseconds
+
+CAPTAIN PHASMA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2457 nanoseconds
+
+MAZ was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1882 nanoseconds
+
+BALA-TIK was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1691 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1428 nanoseconds
+
+UNKAR PLUTT was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2327 nanoseconds
+
+LOR SAN TEKKA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1356 nanoseconds
+
+BB-8 was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2503 nanoseconds
+
+Average search took 357 nanoseconds
+-------------------------------------------------------------------------------------
+n = 10
+
+ArrayMinHeap created...
+NodeMaxHeap created...
+BinarySearchTree created...
+
+
+******************************************************************************************
+
+
+Enter first the input file name followed by the output file name separated by a space on the line below: 
+starwars.txt starwars.txt
+
+Average insert time:   4460 nanoseconds
+Min: ADMIRAL ACKBAR
+Max: LUKE
+
+Items found! 
+Search for min took 50031 nanoseconds.
+Search for max took 8915 nanoseconds.
+
+PREORDER TRAVERSAL:
+ADMIRAL ACKBAR, ANAKIN, ADMIRAL STATURA, BAIL ORGANA, BIB FORTUNA, BALA-TIK, BB-8, BRAVO THREE, CAPTAIN PANAKA, CAMIE, BIGGS, COLONEL DATOO,  
+BERU, BOBA FETT, CHEWBACCA, C-3PO, DOFINE, CLIEGG, HAN, FANG ZAR, CAPTAIN ANTILLES, BRAVO TWO, BOUSHH, GENERAL GRIEVOUS,  
+ELLO ASTY, CLONE COMMANDER CODY, BOSS NASS, CLONE COMMANDER GREE, MON MOTHMA, DACK, JANSON, OBI-WAN, JIRA, LAMA SU, GREEDO, COUNT DOOKU,  
+GOLD FIVE, POGGLE, PLO KOON, MACE WINDU, JABBA, MOTTI, DODONNA, DERLIN, DARTH VADER, CAPTAIN TYPHO, DARTH MAUL, POE,  
+GENERAL HUX, GENERAL CEEL, EMPEROR, NIV LEK, FINN, FODE/BEED, CAPTAIN PHASMA, LOR SAN TEKKA, KI-ADI-MUNDI, SHMI, ODD BALL, RUNE,  
+JAR JAR, LANDO, SEBULBA, RED LEADER, VALORUM, WALD, OWEN, WEDGE, TARPALS, WATTO, PK-4, LEIA,  
+SENATOR ASK AAK, JOBAL, ORN FREE TAA, RED TEN, SOLA, SUN RIT, SIO BIBBLE, PADME, TION MEDON, ON MEDON, MAD MADDA, TAUN WE,  
+NUTE GUNRAY, RIEEKAN, GIDDEAN DANU, QUI-GON, OZZEL, ZEV, NEEDA, JERJERROD, GOLD LEADER, RABE, REY, R2-D2,  
+SNAP, JANGO FETT, SNOKE, TARKIN, KYLO REN, TEY HOW, JESS, YODA, YOLO ZIFF, TC-14, KITSTER, RUWEE,  
+MAZ, PIETT, LIEUTENANT MITAKA, UNKAR PLUTT, RIC OLIE, LUKE, 
+
+ANAKIN was found!
+Array index is 2
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1488 nanoseconds
+
+DARTH VADER was found!
+Array index is 45
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5664 nanoseconds
+
+OBI-WAN was found!
+Array index is 32
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2352 nanoseconds
+
+C-3PO was found!
+Array index is 16
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1897 nanoseconds
+
+R2-D2 was found!
+Array index is 96
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8554 nanoseconds
+
+CHEWBACCA was found!
+Array index is 15
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1803 nanoseconds
+
+HAN was found!
+Array index is 19
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1761 nanoseconds
+
+LEIA was found!
+Array index is 72
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5892 nanoseconds
+
+PADME was found!
+Array index is 80
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6042 nanoseconds
+
+QUI-GON was found!
+Array index is 88
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8821 nanoseconds
+
+EMPEROR was found!
+Array index is 51
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4417 nanoseconds
+
+YODA was found!
+Array index is 104
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8813 nanoseconds
+
+JAR JAR was found!
+Array index is 61
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4943 nanoseconds
+
+LANDO was found!
+Array index is 62
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 7246 nanoseconds
+
+RED LEADER was found!
+Array index is 64
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5037 nanoseconds
+
+WEDGE was found!
+Array index is 68
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5085 nanoseconds
+
+BAIL ORGANA was found!
+Array index is 4
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 884 nanoseconds
+
+CAPTAIN PANAKA was found!
+Array index is 9
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1330 nanoseconds
+
+MACE WINDU was found!
+Array index is 40
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 12987 nanoseconds
+
+NUTE GUNRAY was found!
+Array index is 85
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7111 nanoseconds
+
+BIGGS was found!
+Array index is 11
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1580 nanoseconds
+
+GOLD LEADER was found!
+Array index is 93
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7532 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Array index is 24
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2155 nanoseconds
+
+TARKIN was found!
+Array index is 100
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8138 nanoseconds
+
+PIETT was found!
+Array index is 110
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8727 nanoseconds
+
+FODE/BEED was found!
+Array index is 54
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4561 nanoseconds
+
+RIC OLIE was found!
+Array index is 113
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9158 nanoseconds
+
+SHMI was found!
+Array index is 58
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4648 nanoseconds
+
+RUNE was found!
+Array index is 60
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4491 nanoseconds
+
+BOBA FETT was found!
+Array index is 14
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1851 nanoseconds
+
+OWEN was found!
+Array index is 67
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7096 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Array index is 1
+Tree depth is 0
+This node is not a leaf
+Size of subtree is 114
+Search time is 718 nanoseconds
+
+WATTO was found!
+Array index is 70
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5422 nanoseconds
+
+LAMA SU was found!
+Array index is 34
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3008 nanoseconds
+
+COUNT DOOKU was found!
+Array index is 36
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3243 nanoseconds
+
+GOLD FIVE was found!
+Array index is 37
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3244 nanoseconds
+
+RED TEN was found!
+Array index is 76
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8661 nanoseconds
+
+SIO BIBBLE was found!
+Array index is 79
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6083 nanoseconds
+
+JABBA was found!
+Array index is 41
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3600 nanoseconds
+
+MAD MADDA was found!
+Array index is 83
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6385 nanoseconds
+
+TAUN WE was found!
+Array index is 84
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6673 nanoseconds
+
+RIEEKAN was found!
+Array index is 86
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8869 nanoseconds
+
+CAPTAIN TYPHO was found!
+Array index is 46
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4090 nanoseconds
+
+ZEV was found!
+Array index is 90
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6549 nanoseconds
+
+DARTH MAUL was found!
+Array index is 47
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4055 nanoseconds
+
+BRAVO TWO was found!
+Array index is 22
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2289 nanoseconds
+
+JANGO FETT was found!
+Array index is 98
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7667 nanoseconds
+
+BOSS NASS was found!
+Array index is 27
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2467 nanoseconds
+
+GENERAL CEEL was found!
+Array index is 50
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4014 nanoseconds
+
+TEY HOW was found!
+Array index is 102
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9705 nanoseconds
+
+TC-14 was found!
+Array index is 106
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7890 nanoseconds
+
+KITSTER was found!
+Array index is 107
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 11882 nanoseconds
+
+RUWEE was found!
+Array index is 108
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8725 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Array index is 26
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2489 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Array index is 28
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2768 nanoseconds
+
+KI-ADI-MUNDI was found!
+Array index is 57
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4490 nanoseconds
+
+ODD BALL was found!
+Array index is 59
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4623 nanoseconds
+
+MON MOTHMA was found!
+Array index is 29
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2603 nanoseconds
+
+BERU was found!
+Array index is 13
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1525 nanoseconds
+
+DACK was found!
+Array index is 30
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2516 nanoseconds
+
+JANSON was found!
+Array index is 31
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2871 nanoseconds
+
+SEBULBA was found!
+Array index is 63
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 5044 nanoseconds
+
+JIRA was found!
+Array index is 33
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2639 nanoseconds
+
+VALORUM was found!
+Array index is 65
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5168 nanoseconds
+
+WALD was found!
+Array index is 66
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5006 nanoseconds
+
+BRAVO THREE was found!
+Array index is 8
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1194 nanoseconds
+
+DOFINE was found!
+Array index is 17
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1874 nanoseconds
+
+TARPALS was found!
+Array index is 69
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5356 nanoseconds
+
+PK-4 was found!
+Array index is 71
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7286 nanoseconds
+
+GREEDO was found!
+Array index is 35
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2895 nanoseconds
+
+CLIEGG was found!
+Array index is 18
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1963 nanoseconds
+
+SENATOR ASK AAK was found!
+Array index is 73
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5689 nanoseconds
+
+JOBAL was found!
+Array index is 74
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8390 nanoseconds
+
+ORN FREE TAA was found!
+Array index is 75
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5643 nanoseconds
+
+POGGLE was found!
+Array index is 38
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3320 nanoseconds
+
+SOLA was found!
+Array index is 77
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5682 nanoseconds
+
+SUN RIT was found!
+Array index is 78
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8872 nanoseconds
+
+PLO KOON was found!
+Array index is 39
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4899 nanoseconds
+
+FANG ZAR was found!
+Array index is 20
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2784 nanoseconds
+
+TION MEDON was found!
+Array index is 81
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9613 nanoseconds
+
+ON MEDON was found!
+Array index is 82
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8656 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Array index is 21
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2867 nanoseconds
+
+GIDDEAN DANU was found!
+Array index is 87
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7004 nanoseconds
+
+MOTTI was found!
+Array index is 42
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3647 nanoseconds
+
+CAMIE was found!
+Array index is 10
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1308 nanoseconds
+
+DODONNA was found!
+Array index is 43
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3760 nanoseconds
+
+DERLIN was found!
+Array index is 44
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3605 nanoseconds
+
+OZZEL was found!
+Array index is 89
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 21658 nanoseconds
+
+NEEDA was found!
+Array index is 91
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7381 nanoseconds
+
+BIB FORTUNA was found!
+Array index is 5
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1045 nanoseconds
+
+JERJERROD was found!
+Array index is 92
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 11123 nanoseconds
+
+BOUSHH was found!
+Array index is 23
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2409 nanoseconds
+
+RABE was found!
+Array index is 94
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7258 nanoseconds
+
+REY was found!
+Array index is 95
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6984 nanoseconds
+
+POE was found!
+Array index is 48
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3791 nanoseconds
+
+SNAP was found!
+Array index is 97
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7633 nanoseconds
+
+GENERAL HUX was found!
+Array index is 49
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6209 nanoseconds
+
+SNOKE was found!
+Array index is 99
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 11353 nanoseconds
+
+COLONEL DATOO was found!
+Array index is 12
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 2311 nanoseconds
+
+KYLO REN was found!
+Array index is 101
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8026 nanoseconds
+
+JESS was found!
+Array index is 103
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7908 nanoseconds
+
+ELLO ASTY was found!
+Array index is 25
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2393 nanoseconds
+
+NIV LEK was found!
+Array index is 52
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5527 nanoseconds
+
+YOLO ZIFF was found!
+Array index is 105
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7729 nanoseconds
+
+FINN was found!
+Array index is 53
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5904 nanoseconds
+
+ADMIRAL STATURA was found!
+Array index is 3
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 3070161 nanoseconds
+
+CAPTAIN PHASMA was found!
+Array index is 55
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 24129 nanoseconds
+
+MAZ was found!
+Array index is 109
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 20574 nanoseconds
+
+BALA-TIK was found!
+Array index is 6
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 2477 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Array index is 111
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 18331 nanoseconds
+
+UNKAR PLUTT was found!
+Array index is 112
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 16027 nanoseconds
+
+LOR SAN TEKKA was found!
+Array index is 56
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5810 nanoseconds
+
+BB-8 was found!
+Array index is 7
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1092 nanoseconds
+
+Average search took 32925 nanoseconds
+-------------------------------------------------------------------------------------
+Average insert time:   4067 nanoseconds
+Min: ZEV
+Max: BB-8
+
+Items found! 
+Search for min took 43762 nanoseconds.
+Search for max took 11093 nanoseconds.
+
+POSTORDER TRAVERSAL:
+BB-8, KI-ADI-MUNDI, CHEWBACCA, CLONE COMMANDER CODY, BALA-TIK, FODE/BEED, CAPTAIN PHASMA,  
+ADMIRAL STATURA, FINN, NIV LEK, EMPEROR, ELLO ASTY, GENERAL GRIEVOUS, GENERAL CEEL, COLONEL DATOO, GENERAL HUX, BOSS NASS, JANGO FETT, ANAKIN,  
+JERJERROD, BRAVO TWO, BOUSHH, DARTH MAUL, BIB FORTUNA, CAPTAIN TYPHO, DERLIN, BIGGS, DODONNA, CAMIE, MACE WINDU, GIDDEAN DANU,  
+CAPTAIN ANTILLES, JABBA, FANG ZAR, C-3PO, PLO KOON, HAN, POGGLE, CAPTAIN PANAKA, JOBAL, COUNT DOOKU, CLIEGG, BAIL ORGANA,  
+GREEDO, LAMA SU, LEIA, DOFINE, BRAVO THREE, ADMIRAL ACKBAR, JIRA, DARTH VADER, JANSON, BOBA FETT, DACK, BERU,  
+MON MOTHMA, LANDO, CLONE COMMANDER GREE, LOR SAN TEKKA, LIEUTENANT MITAKA, MAZ, KITSTER, PIETT, JESS, KYLO REN, R2-D2, POE,  
+RABE, GOLD LEADER, NEEDA, LUKE, NUTE GUNRAY, MOTTI, ON MEDON, MAD MADDA, SIO BIBBLE, RED TEN, ORN FREE TAA, GOLD FIVE,  
+PK-4, QUI-GON, RED LEADER, OWEN, RUNE, JAR JAR, ODD BALL, RIC OLIE, RUWEE, TARKIN, OBI-WAN, SNAP,  
+REY, OZZEL, PADME, RIEEKAN, SOLA, SENATOR ASK AAK, TARPALS, VALORUM, SEBULBA, SHMI, TC-14, SNOKE,  
+TAUN WE, TION MEDON, SUN RIT, WALD, UNKAR PLUTT, TEY HOW, WEDGE, WATTO, YOLO ZIFF, YODA, ZEV, 
+
+ANAKIN was found!
+Array index is 96
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7643 nanoseconds
+
+DARTH VADER was found!
+Array index is 64
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5979 nanoseconds
+
+LUKE was found!
+Array index is 44
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 13395 nanoseconds
+
+OBI-WAN was found!
+Array index is 25
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 4719 nanoseconds
+
+C-3PO was found!
+Array index is 80
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 12837 nanoseconds
+
+R2-D2 was found!
+Array index is 49
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5772 nanoseconds
+
+CHEWBACCA was found!
+Array index is 112
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 14998 nanoseconds
+
+HAN was found!
+Array index is 78
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6699 nanoseconds
+
+LEIA was found!
+Array index is 69
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4979 nanoseconds
+
+PADME was found!
+Array index is 21
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2012 nanoseconds
+
+QUI-GON was found!
+Array index is 34
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2645 nanoseconds
+
+EMPEROR was found!
+Array index is 104
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8872 nanoseconds
+
+YODA was found!
+Array index is 2
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1286 nanoseconds
+
+JAR JAR was found!
+Array index is 30
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 3567 nanoseconds
+
+LANDO was found!
+Array index is 58
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 6668 nanoseconds
+
+RED LEADER was found!
+Array index is 33
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4045 nanoseconds
+
+WEDGE was found!
+Array index is 5
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1000 nanoseconds
+
+BAIL ORGANA was found!
+Array index is 72
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5218 nanoseconds
+
+CAPTAIN PANAKA was found!
+Array index is 76
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 19564 nanoseconds
+
+MACE WINDU was found!
+Array index is 85
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8769 nanoseconds
+
+NUTE GUNRAY was found!
+Array index is 43
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4295 nanoseconds
+
+BIGGS was found!
+Array index is 88
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6374 nanoseconds
+
+GOLD LEADER was found!
+Array index is 46
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4998 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Array index is 102
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10157 nanoseconds
+
+TARKIN was found!
+Array index is 26
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 3527 nanoseconds
+
+PIETT was found!
+Array index is 52
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3929 nanoseconds
+
+FODE/BEED was found!
+Array index is 109
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7623 nanoseconds
+
+RIC OLIE was found!
+Array index is 28
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2909 nanoseconds
+
+SHMI was found!
+Array index is 14
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1552 nanoseconds
+
+RUNE was found!
+Array index is 31
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2794 nanoseconds
+
+BOBA FETT was found!
+Array index is 62
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4332 nanoseconds
+
+OWEN was found!
+Array index is 32
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2908 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Array index is 66
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4756 nanoseconds
+
+WATTO was found!
+Array index is 4
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 820 nanoseconds
+
+LAMA SU was found!
+Array index is 70
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5191 nanoseconds
+
+COUNT DOOKU was found!
+Array index is 74
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5453 nanoseconds
+
+GOLD FIVE was found!
+Array index is 36
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2885 nanoseconds
+
+RED TEN was found!
+Array index is 38
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6237 nanoseconds
+
+SIO BIBBLE was found!
+Array index is 39
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3287 nanoseconds
+
+JABBA was found!
+Array index is 82
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8134 nanoseconds
+
+MAD MADDA was found!
+Array index is 40
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4666 nanoseconds
+
+TAUN WE was found!
+Array index is 11
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1586 nanoseconds
+
+RIEEKAN was found!
+Array index is 20
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1887 nanoseconds
+
+CAPTAIN TYPHO was found!
+Array index is 90
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6470 nanoseconds
+
+ZEV was found!
+Array index is 1
+Tree depth is 0
+This node is not a leaf
+Size of subtree is 114
+Search time is 729 nanoseconds
+
+DARTH MAUL was found!
+Array index is 92
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6479 nanoseconds
+
+BRAVO TWO was found!
+Array index is 94
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6527 nanoseconds
+
+JANGO FETT was found!
+Array index is 97
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6699 nanoseconds
+
+BOSS NASS was found!
+Array index is 98
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6733 nanoseconds
+
+GENERAL CEEL was found!
+Array index is 101
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6978 nanoseconds
+
+TEY HOW was found!
+Array index is 6
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1098 nanoseconds
+
+TC-14 was found!
+Array index is 13
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1420 nanoseconds
+
+KITSTER was found!
+Array index is 53
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4113 nanoseconds
+
+RUWEE was found!
+Array index is 27
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2506 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Array index is 111
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7813 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Array index is 57
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 6818 nanoseconds
+
+KI-ADI-MUNDI was found!
+Array index is 113
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8093 nanoseconds
+
+ODD BALL was found!
+Array index is 29
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2343 nanoseconds
+
+MON MOTHMA was found!
+Array index is 59
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 5594 nanoseconds
+
+BERU was found!
+Array index is 60
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4413 nanoseconds
+
+DACK was found!
+Array index is 61
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4437 nanoseconds
+
+JANSON was found!
+Array index is 63
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4793 nanoseconds
+
+SEBULBA was found!
+Array index is 15
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1614 nanoseconds
+
+JIRA was found!
+Array index is 65
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4807 nanoseconds
+
+VALORUM was found!
+Array index is 16
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1890 nanoseconds
+
+WALD was found!
+Array index is 8
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1163 nanoseconds
+
+BRAVO THREE was found!
+Array index is 67
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4771 nanoseconds
+
+DOFINE was found!
+Array index is 68
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4834 nanoseconds
+
+TARPALS was found!
+Array index is 17
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1807 nanoseconds
+
+PK-4 was found!
+Array index is 35
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2913 nanoseconds
+
+GREEDO was found!
+Array index is 71
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5127 nanoseconds
+
+CLIEGG was found!
+Array index is 73
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5023 nanoseconds
+
+SENATOR ASK AAK was found!
+Array index is 18
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1995 nanoseconds
+
+JOBAL was found!
+Array index is 75
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5449 nanoseconds
+
+ORN FREE TAA was found!
+Array index is 37
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2856 nanoseconds
+
+POGGLE was found!
+Array index is 77
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8066 nanoseconds
+
+SOLA was found!
+Array index is 19
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2149 nanoseconds
+
+SUN RIT was found!
+Array index is 9
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1045 nanoseconds
+
+PLO KOON was found!
+Array index is 79
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5530 nanoseconds
+
+FANG ZAR was found!
+Array index is 81
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5718 nanoseconds
+
+TION MEDON was found!
+Array index is 10
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1758 nanoseconds
+
+ON MEDON was found!
+Array index is 41
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3505 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Array index is 83
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5906 nanoseconds
+
+GIDDEAN DANU was found!
+Array index is 84
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5791 nanoseconds
+
+MOTTI was found!
+Array index is 42
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3340 nanoseconds
+
+CAMIE was found!
+Array index is 86
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8656 nanoseconds
+
+DODONNA was found!
+Array index is 87
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6375 nanoseconds
+
+DERLIN was found!
+Array index is 89
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6255 nanoseconds
+
+OZZEL was found!
+Array index is 22
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1775 nanoseconds
+
+NEEDA was found!
+Array index is 45
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3455 nanoseconds
+
+BIB FORTUNA was found!
+Array index is 91
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6600 nanoseconds
+
+JERJERROD was found!
+Array index is 95
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7019 nanoseconds
+
+BOUSHH was found!
+Array index is 93
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10566 nanoseconds
+
+RABE was found!
+Array index is 47
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3756 nanoseconds
+
+REY was found!
+Array index is 23
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1972 nanoseconds
+
+POE was found!
+Array index is 48
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3724 nanoseconds
+
+SNAP was found!
+Array index is 24
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 3418 nanoseconds
+
+GENERAL HUX was found!
+Array index is 99
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9980 nanoseconds
+
+SNOKE was found!
+Array index is 12
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1694 nanoseconds
+
+COLONEL DATOO was found!
+Array index is 100
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7102 nanoseconds
+
+KYLO REN was found!
+Array index is 50
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3647 nanoseconds
+
+JESS was found!
+Array index is 51
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3900 nanoseconds
+
+ELLO ASTY was found!
+Array index is 103
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6890 nanoseconds
+
+NIV LEK was found!
+Array index is 105
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10344 nanoseconds
+
+YOLO ZIFF was found!
+Array index is 3
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1364 nanoseconds
+
+FINN was found!
+Array index is 106
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9790 nanoseconds
+
+ADMIRAL STATURA was found!
+Array index is 107
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7081 nanoseconds
+
+CAPTAIN PHASMA was found!
+Array index is 108
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 20175 nanoseconds
+
+MAZ was found!
+Array index is 54
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6180 nanoseconds
+
+BALA-TIK was found!
+Array index is 110
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 11712 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Array index is 55
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 7276 nanoseconds
+
+UNKAR PLUTT was found!
+Array index is 7
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1519 nanoseconds
+
+LOR SAN TEKKA was found!
+Array index is 56
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6777 nanoseconds
+
+Average search took 5319 nanoseconds
+-------------------------------------------------------------------------------------
+Average insert time:   4116 nanoseconds
+Min: ADMIRAL ACKBAR
+Max: ZEV
+
+Items found!
+Search for min took 13980 nanoseconds.
+Search for max took 3603 nanoseconds.
+
+IN-ORDER TRAVERSAL:
+ADMIRAL ACKBAR, ADMIRAL STATURA, ANAKIN, BAIL ORGANA, BALA-TIK, BB-8, BERU, BIB FORTUNA, BIGGS, BOBA FETT, BOSS NASS, BOUSHH, BRAVO THREE, BRAVO TWO, 
+C-3PO, CAMIE, CAPTAIN ANTILLES, CAPTAIN PANAKA, CAPTAIN PHASMA, CAPTAIN TYPHO, CHEWBACCA, CLIEGG, CLONE COMMANDER CODY, CLONE COMMANDER GREE, COLONEL DATOO, COUNT DOOKU, DACK, DARTH MAUL, 
+DARTH VADER, DERLIN, DODONNA, DOFINE, ELLO ASTY, EMPEROR, FANG ZAR, FINN, FODE/BEED, GENERAL CEEL, GENERAL GRIEVOUS, GENERAL HUX, 
+GIDDEAN DANU, GOLD FIVE, GOLD LEADER, GREEDO, HAN, JABBA, JANGO FETT, JANSON, JAR JAR, JERJERROD, JESS, JIRA, JOBAL, 
+KI-ADI-MUNDI, KITSTER, KYLO REN, LAMA SU, LANDO, LEIA, LIEUTENANT MITAKA, LOR SAN TEKKA, LUKE, MACE WINDU, MAD MADDA, MAZ, 
+MON MOTHMA, MOTTI, NEEDA, NIV LEK, NUTE GUNRAY, OBI-WAN, ODD BALL, ON MEDON, ORN FREE TAA, OWEN, OZZEL, 
+PADME, PIETT, PK-4, PLO KOON, POE, POGGLE, QUI-GON, R2-D2, RABE, RED LEADER, RED TEN, REY, RIC OLIE, RIEEKAN, RUNE, RUWEE, SEBULBA, SENATOR ASK AAK, 
+SHMI, SIO BIBBLE, SNAP, SNOKE, SOLA, SUN RIT, TARKIN, TARPALS, TAUN WE, TC-14, 
+TEY HOW, TION MEDON, UNKAR PLUTT, VALORUM, WALD, WATTO, WEDGE, YODA, YOLO ZIFF, ZEV, 
+
+
+
+ANAKIN was found!
+Tree depth is 229
+This node is not a leaf
+Size of subtree is 7
+Search time is 1798 nanoseconds
+
+DARTH VADER was found!
+Tree depth is 223
+This node is not a leaf
+Size of subtree is 6
+Search time is 2125 nanoseconds
+
+LUKE was found!
+Tree depth is 171
+This node is not a leaf
+Size of subtree is 5
+Search time is 2076 nanoseconds
+
+OBI-WAN was found!
+Tree depth is 105
+This node is not a leaf
+Size of subtree is 4
+Search time is 2652 nanoseconds
+
+C-3PO was found!
+Tree depth is 51
+This node is not a leaf
+Size of subtree is 4
+Search time is 2242 nanoseconds
+
+R2-D2 was found!
+Tree depth is 87
+This node is not a leaf
+Size of subtree is 3
+Search time is 2739 nanoseconds
+
+CHEWBACCA was found!
+Tree depth is 27
+This node is not a leaf
+Size of subtree is 3
+Search time is 2602 nanoseconds
+
+HAN was found!
+Tree depth is 65
+This node is not a leaf
+Size of subtree is 3
+Search time is 2570 nanoseconds
+
+LEIA was found!
+Tree depth is 33
+This node is not a leaf
+Size of subtree is 2
+Search time is 2878 nanoseconds
+
+PADME was found!
+Tree depth is 25
+This node is not a leaf
+Size of subtree is 6
+Search time is 3113 nanoseconds
+
+QUI-GON was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 5
+Search time is 3484 nanoseconds
+
+EMPEROR was found!
+Tree depth is 31
+This node is not a leaf
+Size of subtree is 2
+Search time is 2757 nanoseconds
+
+YODA was found!
+Tree depth is 61
+This node is not a leaf
+Size of subtree is 2
+Search time is 2878 nanoseconds
+
+JAR JAR was found!
+Tree depth is 27
+This node is not a leaf
+Size of subtree is 4
+Search time is 3131 nanoseconds
+
+LANDO was found!
+Tree depth is 19
+This node is not a leaf
+Size of subtree is 3
+Search time is 3375 nanoseconds
+
+RED LEADER was found!
+Tree depth is 55
+This node is not a leaf
+Size of subtree is 7
+Search time is 4632 nanoseconds
+
+WEDGE was found!
+Tree depth is 51
+This node is not a leaf
+Size of subtree is 6
+Search time is 3543 nanoseconds
+
+BAIL ORGANA was found!
+Tree depth is 23
+This node is not a leaf
+Size of subtree is 6
+Search time is 2429 nanoseconds
+
+CAPTAIN PANAKA was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 3212 nanoseconds
+
+MACE WINDU was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 6
+Search time is 2733 nanoseconds
+
+NUTE GUNRAY was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 5
+Search time is 5715 nanoseconds
+
+BIGGS was found!
+Tree depth is 21
+This node is not a leaf
+Size of subtree is 5
+Search time is 3004 nanoseconds
+
+GOLD LEADER was found!
+Tree depth is 21
+This node is not a leaf
+Size of subtree is 1
+Search time is 3002 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 3
+Search time is 7985 nanoseconds
+
+TARKIN was found!
+Tree depth is 49
+This node is not a leaf
+Size of subtree is 5
+Search time is 4016 nanoseconds
+
+PIETT was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 4
+Search time is 3418 nanoseconds
+
+FODE/BEED was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 3635 nanoseconds
+
+RIC OLIE was found!
+Tree depth is 29
+This node is not a leaf
+Size of subtree is 4
+Search time is 3902 nanoseconds
+
+SHMI was found!
+Tree depth is 23
+This node is not a leaf
+Size of subtree is 3
+Search time is 4206 nanoseconds
+
+RUNE was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 3
+Search time is 4643 nanoseconds
+
+BOBA FETT was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 4
+Search time is 3671 nanoseconds
+
+OWEN was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 1
+Search time is 4117 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2148 nanoseconds
+
+WATTO was found!
+Tree depth is 19
+This node is not a leaf
+Size of subtree is 4
+Search time is 4414 nanoseconds
+
+LAMA SU was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 2
+Search time is 3621 nanoseconds
+
+COUNT DOOKU was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 2
+Search time is 2658 nanoseconds
+
+GOLD FIVE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 3502 nanoseconds
+
+RED TEN was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 4444 nanoseconds
+
+SIO BIBBLE was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 17080 nanoseconds
+
+JABBA was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 4240 nanoseconds
+
+MAD MADDA was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 4
+Search time is 6118 nanoseconds
+
+TAUN WE was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 3
+Search time is 7144 nanoseconds
+
+RIEEKAN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 5372 nanoseconds
+
+CAPTAIN TYPHO was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3508 nanoseconds
+
+ZEV was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 27066 nanoseconds
+
+DARTH MAUL was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 7739 nanoseconds
+
+BRAVO TWO was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 3
+Search time is 1555 nanoseconds
+
+JANGO FETT was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1657 nanoseconds
+
+BOSS NASS was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1639 nanoseconds
+
+GENERAL CEEL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1699 nanoseconds
+
+TEY HOW was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 2
+Search time is 1785 nanoseconds
+
+TC-14 was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2550 nanoseconds
+
+KITSTER was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 1
+Search time is 1738 nanoseconds
+
+RUWEE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1865 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 2
+Search time is 1445 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1825 nanoseconds
+
+KI-ADI-MUNDI was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 2326 nanoseconds
+
+ODD BALL was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1631 nanoseconds
+
+MON MOTHMA was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 3
+Search time is 1610 nanoseconds
+
+BERU was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 1301 nanoseconds
+
+DACK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1571 nanoseconds
+
+JANSON was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1679 nanoseconds
+
+SEBULBA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1964 nanoseconds
+
+JIRA was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 1930 nanoseconds
+
+VALORUM was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 1840 nanoseconds
+
+WALD was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1938 nanoseconds
+
+BRAVO THREE was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1747 nanoseconds
+
+DOFINE was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 1323 nanoseconds
+
+TARPALS was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1799 nanoseconds
+
+PK-4 was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 3
+Search time is 1554 nanoseconds
+
+GREEDO was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1400 nanoseconds
+
+CLIEGG was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1367 nanoseconds
+
+SENATOR ASK AAK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2111 nanoseconds
+
+JOBAL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1807 nanoseconds
+
+ORN FREE TAA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1450 nanoseconds
+
+POGGLE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1528 nanoseconds
+
+SOLA was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 2415 nanoseconds
+
+SUN RIT was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2282 nanoseconds
+
+PLO KOON was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1675 nanoseconds
+
+FANG ZAR was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1663 nanoseconds
+
+TION MEDON was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1977 nanoseconds
+
+ON MEDON was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1847 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1601 nanoseconds
+
+GIDDEAN DANU was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1610 nanoseconds
+
+MOTTI was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1950 nanoseconds
+
+CAMIE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1619 nanoseconds
+
+DODONNA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1632 nanoseconds
+
+DERLIN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1433 nanoseconds
+
+OZZEL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1717 nanoseconds
+
+NEEDA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2508 nanoseconds
+
+BIB FORTUNA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1770 nanoseconds
+
+JERJERROD was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2494 nanoseconds
+
+BOUSHH was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1841 nanoseconds
+
+RABE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2006 nanoseconds
+
+REY was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2670 nanoseconds
+
+POE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2596 nanoseconds
+
+SNAP was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2822 nanoseconds
+
+GENERAL HUX was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2909 nanoseconds
+
+SNOKE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 3219 nanoseconds
+
+COLONEL DATOO was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2325 nanoseconds
+
+KYLO REN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2502 nanoseconds
+
+JESS was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2996 nanoseconds
+
+ELLO ASTY was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1542 nanoseconds
+
+NIV LEK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1920 nanoseconds
+
+YOLO ZIFF was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1610 nanoseconds
+
+FINN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1802 nanoseconds
+
+ADMIRAL STATURA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1408 nanoseconds
+
+CAPTAIN PHASMA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1653 nanoseconds
+
+MAZ was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1605 nanoseconds
+
+BALA-TIK was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1515 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1439 nanoseconds
+
+UNKAR PLUTT was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2166 nanoseconds
+
+LOR SAN TEKKA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1469 nanoseconds
+
+BB-8 was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1639 nanoseconds
+
+Average search took 325 nanoseconds
+-------------------------------------------------------------------------------------
+n = 100
+
+ArrayMinHeap created...
+NodeMaxHeap created...
+BinarySearchTree created...
+
+
+******************************************************************************************
+
+
+
+Enter first the input file name followed by the output file name separated by a space on the line below: 
+starwars.txt starwars.txt
+
+Average insert time:   4560 nanoseconds
+Min: ADMIRAL ACKBAR
+Max: LUKE
+
+Items found! 
+Search for min took 54438 nanoseconds.
+Search for max took 7895 nanoseconds.
+
+PREORDER TRAVERSAL:
+ADMIRAL ACKBAR, ANAKIN, ADMIRAL STATURA, BAIL ORGANA, BIB FORTUNA, BALA-TIK, BB-8, BRAVO THREE, CAPTAIN PANAKA, CAMIE, BIGGS, COLONEL DATOO,  
+BERU, BOBA FETT, CHEWBACCA, C-3PO, DOFINE, CLIEGG, HAN, FANG ZAR, CAPTAIN ANTILLES, BRAVO TWO, BOUSHH, GENERAL GRIEVOUS,  
+ELLO ASTY, CLONE COMMANDER CODY, BOSS NASS, CLONE COMMANDER GREE, MON MOTHMA, DACK, JANSON, OBI-WAN, JIRA, LAMA SU, GREEDO, COUNT DOOKU,  
+GOLD FIVE, POGGLE, PLO KOON, MACE WINDU, JABBA, MOTTI, DODONNA, DERLIN, DARTH VADER, CAPTAIN TYPHO, DARTH MAUL, POE,  
+GENERAL HUX, GENERAL CEEL, EMPEROR, NIV LEK, FINN, FODE/BEED, CAPTAIN PHASMA, LOR SAN TEKKA, KI-ADI-MUNDI, SHMI, ODD BALL, RUNE,  
+JAR JAR, LANDO, SEBULBA, RED LEADER, VALORUM, WALD, OWEN, WEDGE, TARPALS, WATTO, PK-4, LEIA,  
+SENATOR ASK AAK, JOBAL, ORN FREE TAA, RED TEN, SOLA, SUN RIT, SIO BIBBLE, PADME, TION MEDON, ON MEDON, MAD MADDA, TAUN WE,  
+NUTE GUNRAY, RIEEKAN, GIDDEAN DANU, QUI-GON, OZZEL, ZEV, NEEDA, JERJERROD, GOLD LEADER, RABE, REY, R2-D2,  
+SNAP, JANGO FETT, SNOKE, TARKIN, KYLO REN, TEY HOW, JESS, YODA, YOLO ZIFF, TC-14, KITSTER, RUWEE,  
+MAZ, PIETT, LIEUTENANT MITAKA, UNKAR PLUTT, RIC OLIE, LUKE, 
+
+ANAKIN was found!
+Array index is 2
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1586 nanoseconds
+
+DARTH VADER was found!
+Array index is 45
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6032 nanoseconds
+
+OBI-WAN was found!
+Array index is 32
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2295 nanoseconds
+
+C-3PO was found!
+Array index is 16
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1698 nanoseconds
+
+R2-D2 was found!
+Array index is 96
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7631 nanoseconds
+
+CHEWBACCA was found!
+Array index is 15
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 2452 nanoseconds
+
+HAN was found!
+Array index is 19
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1870 nanoseconds
+
+LEIA was found!
+Array index is 72
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7013 nanoseconds
+
+PADME was found!
+Array index is 80
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6298 nanoseconds
+
+QUI-GON was found!
+Array index is 88
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6889 nanoseconds
+
+EMPEROR was found!
+Array index is 51
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4216 nanoseconds
+
+YODA was found!
+Array index is 104
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7790 nanoseconds
+
+JAR JAR was found!
+Array index is 61
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4890 nanoseconds
+
+LANDO was found!
+Array index is 62
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 7294 nanoseconds
+
+RED LEADER was found!
+Array index is 64
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5000 nanoseconds
+
+WEDGE was found!
+Array index is 68
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5055 nanoseconds
+
+BAIL ORGANA was found!
+Array index is 4
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 801 nanoseconds
+
+CAPTAIN PANAKA was found!
+Array index is 9
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1168 nanoseconds
+
+MACE WINDU was found!
+Array index is 40
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 10093 nanoseconds
+
+NUTE GUNRAY was found!
+Array index is 85
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6540 nanoseconds
+
+BIGGS was found!
+Array index is 11
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1338 nanoseconds
+
+GOLD LEADER was found!
+Array index is 93
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7059 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Array index is 24
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2129 nanoseconds
+
+TARKIN was found!
+Array index is 100
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8053 nanoseconds
+
+PIETT was found!
+Array index is 110
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8836 nanoseconds
+
+FODE/BEED was found!
+Array index is 54
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4386 nanoseconds
+
+RIC OLIE was found!
+Array index is 113
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9950 nanoseconds
+
+SHMI was found!
+Array index is 58
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4610 nanoseconds
+
+RUNE was found!
+Array index is 60
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4508 nanoseconds
+
+BOBA FETT was found!
+Array index is 14
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1781 nanoseconds
+
+OWEN was found!
+Array index is 67
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6860 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Array index is 1
+Tree depth is 0
+This node is not a leaf
+Size of subtree is 114
+Search time is 740 nanoseconds
+
+WATTO was found!
+Array index is 70
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5447 nanoseconds
+
+LAMA SU was found!
+Array index is 34
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2803 nanoseconds
+
+COUNT DOOKU was found!
+Array index is 36
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3162 nanoseconds
+
+GOLD FIVE was found!
+Array index is 37
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3353 nanoseconds
+
+RED TEN was found!
+Array index is 76
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9465 nanoseconds
+
+SIO BIBBLE was found!
+Array index is 79
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6107 nanoseconds
+
+JABBA was found!
+Array index is 41
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3480 nanoseconds
+
+MAD MADDA was found!
+Array index is 83
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6244 nanoseconds
+
+TAUN WE was found!
+Array index is 84
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6709 nanoseconds
+
+RIEEKAN was found!
+Array index is 86
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6665 nanoseconds
+
+CAPTAIN TYPHO was found!
+Array index is 46
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3989 nanoseconds
+
+ZEV was found!
+Array index is 90
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6365 nanoseconds
+
+DARTH MAUL was found!
+Array index is 47
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3810 nanoseconds
+
+BRAVO TWO was found!
+Array index is 22
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2163 nanoseconds
+
+JANGO FETT was found!
+Array index is 98
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7447 nanoseconds
+
+BOSS NASS was found!
+Array index is 27
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2687 nanoseconds
+
+GENERAL CEEL was found!
+Array index is 50
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4128 nanoseconds
+
+TEY HOW was found!
+Array index is 102
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9666 nanoseconds
+
+TC-14 was found!
+Array index is 106
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8044 nanoseconds
+
+KITSTER was found!
+Array index is 107
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10268 nanoseconds
+
+RUWEE was found!
+Array index is 108
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8351 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Array index is 26
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2531 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Array index is 28
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2850 nanoseconds
+
+KI-ADI-MUNDI was found!
+Array index is 57
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4540 nanoseconds
+
+ODD BALL was found!
+Array index is 59
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4821 nanoseconds
+
+MON MOTHMA was found!
+Array index is 29
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2782 nanoseconds
+
+BERU was found!
+Array index is 13
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1476 nanoseconds
+
+DACK was found!
+Array index is 30
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2611 nanoseconds
+
+JANSON was found!
+Array index is 31
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2718 nanoseconds
+
+SEBULBA was found!
+Array index is 63
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 5104 nanoseconds
+
+JIRA was found!
+Array index is 33
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2728 nanoseconds
+
+VALORUM was found!
+Array index is 65
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5189 nanoseconds
+
+WALD was found!
+Array index is 66
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4847 nanoseconds
+
+BRAVO THREE was found!
+Array index is 8
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1117 nanoseconds
+
+DOFINE was found!
+Array index is 17
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1728 nanoseconds
+
+TARPALS was found!
+Array index is 69
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5270 nanoseconds
+
+PK-4 was found!
+Array index is 71
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6938 nanoseconds
+
+GREEDO was found!
+Array index is 35
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2862 nanoseconds
+
+CLIEGG was found!
+Array index is 18
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1780 nanoseconds
+
+SENATOR ASK AAK was found!
+Array index is 73
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5434 nanoseconds
+
+JOBAL was found!
+Array index is 74
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8102 nanoseconds
+
+ORN FREE TAA was found!
+Array index is 75
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5528 nanoseconds
+
+POGGLE was found!
+Array index is 38
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3385 nanoseconds
+
+SOLA was found!
+Array index is 77
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5620 nanoseconds
+
+SUN RIT was found!
+Array index is 78
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5774 nanoseconds
+
+PLO KOON was found!
+Array index is 39
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3417 nanoseconds
+
+FANG ZAR was found!
+Array index is 20
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1925 nanoseconds
+
+TION MEDON was found!
+Array index is 81
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6098 nanoseconds
+
+ON MEDON was found!
+Array index is 82
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6261 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Array index is 21
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2248 nanoseconds
+
+GIDDEAN DANU was found!
+Array index is 87
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6783 nanoseconds
+
+MOTTI was found!
+Array index is 42
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3608 nanoseconds
+
+CAMIE was found!
+Array index is 10
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1286 nanoseconds
+
+DODONNA was found!
+Array index is 43
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3730 nanoseconds
+
+DERLIN was found!
+Array index is 44
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3565 nanoseconds
+
+OZZEL was found!
+Array index is 89
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 21268 nanoseconds
+
+NEEDA was found!
+Array index is 91
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6926 nanoseconds
+
+BIB FORTUNA was found!
+Array index is 5
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 998 nanoseconds
+
+JERJERROD was found!
+Array index is 92
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9445 nanoseconds
+
+BOUSHH was found!
+Array index is 23
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2465 nanoseconds
+
+RABE was found!
+Array index is 94
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7245 nanoseconds
+
+REY was found!
+Array index is 95
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6893 nanoseconds
+
+POE was found!
+Array index is 48
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3724 nanoseconds
+
+SNAP was found!
+Array index is 97
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7014 nanoseconds
+
+GENERAL HUX was found!
+Array index is 49
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5776 nanoseconds
+
+SNOKE was found!
+Array index is 99
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7943 nanoseconds
+
+COLONEL DATOO was found!
+Array index is 12
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1594 nanoseconds
+
+KYLO REN was found!
+Array index is 101
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8041 nanoseconds
+
+JESS was found!
+Array index is 103
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7668 nanoseconds
+
+ELLO ASTY was found!
+Array index is 25
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2374 nanoseconds
+
+NIV LEK was found!
+Array index is 52
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5371 nanoseconds
+
+YOLO ZIFF was found!
+Array index is 105
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8026 nanoseconds
+
+FINN was found!
+Array index is 53
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4287 nanoseconds
+
+ADMIRAL STATURA was found!
+Array index is 3
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1069 nanoseconds
+
+CAPTAIN PHASMA was found!
+Array index is 55
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 22288 nanoseconds
+
+MAZ was found!
+Array index is 109
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8252 nanoseconds
+
+BALA-TIK was found!
+Array index is 6
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1341 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Array index is 111
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8123 nanoseconds
+
+UNKAR PLUTT was found!
+Array index is 112
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 10528 nanoseconds
+
+LOR SAN TEKKA was found!
+Array index is 56
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 20594 nanoseconds
+
+BB-8 was found!
+Array index is 7
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1689 nanoseconds
+
+Average search took 5334 nanoseconds
+-------------------------------------------------------------------------------------
+Average insert time:   3566 nanoseconds
+Min: ZEV
+Max: BB-8
+
+Items found! 
+Search for min took 32272 nanoseconds.
+Search for max took 7781 nanoseconds.
+
+POSTORDER TRAVERSAL:
+BB-8, KI-ADI-MUNDI, CHEWBACCA, CLONE COMMANDER CODY, BALA-TIK, FODE/BEED, CAPTAIN PHASMA,  
+ADMIRAL STATURA, FINN, NIV LEK, EMPEROR, ELLO ASTY, GENERAL GRIEVOUS, GENERAL CEEL, COLONEL DATOO, GENERAL HUX, BOSS NASS, JANGO FETT, ANAKIN,  
+JERJERROD, BRAVO TWO, BOUSHH, DARTH MAUL, BIB FORTUNA, CAPTAIN TYPHO, DERLIN, BIGGS, DODONNA, CAMIE, MACE WINDU, GIDDEAN DANU,  
+CAPTAIN ANTILLES, JABBA, FANG ZAR, C-3PO, PLO KOON, HAN, POGGLE, CAPTAIN PANAKA, JOBAL, COUNT DOOKU, CLIEGG, BAIL ORGANA,  
+GREEDO, LAMA SU, LEIA, DOFINE, BRAVO THREE, ADMIRAL ACKBAR, JIRA, DARTH VADER, JANSON, BOBA FETT, DACK, BERU,  
+MON MOTHMA, LANDO, CLONE COMMANDER GREE, LOR SAN TEKKA, LIEUTENANT MITAKA, MAZ, KITSTER, PIETT, JESS, KYLO REN, R2-D2, POE,  
+RABE, GOLD LEADER, NEEDA, LUKE, NUTE GUNRAY, MOTTI, ON MEDON, MAD MADDA, SIO BIBBLE, RED TEN, ORN FREE TAA, GOLD FIVE,  
+PK-4, QUI-GON, RED LEADER, OWEN, RUNE, JAR JAR, ODD BALL, RIC OLIE, RUWEE, TARKIN, OBI-WAN, SNAP,  
+REY, OZZEL, PADME, RIEEKAN, SOLA, SENATOR ASK AAK, TARPALS, VALORUM, SEBULBA, SHMI, TC-14, SNOKE,  
+TAUN WE, TION MEDON, SUN RIT, WALD, UNKAR PLUTT, TEY HOW, WEDGE, WATTO, YOLO ZIFF, YODA, ZEV, 
+
+ANAKIN was found!
+Array index is 96
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7972 nanoseconds
+
+DARTH VADER was found!
+Array index is 64
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4723 nanoseconds
+
+LUKE was found!
+Array index is 44
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4586 nanoseconds
+
+OBI-WAN was found!
+Array index is 25
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2445 nanoseconds
+
+C-3PO was found!
+Array index is 80
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5735 nanoseconds
+
+R2-D2 was found!
+Array index is 49
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3682 nanoseconds
+
+CHEWBACCA was found!
+Array index is 112
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7834 nanoseconds
+
+HAN was found!
+Array index is 78
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5489 nanoseconds
+
+LEIA was found!
+Array index is 69
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4715 nanoseconds
+
+PADME was found!
+Array index is 21
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1923 nanoseconds
+
+QUI-GON was found!
+Array index is 34
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2672 nanoseconds
+
+EMPEROR was found!
+Array index is 104
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7212 nanoseconds
+
+YODA was found!
+Array index is 2
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 707 nanoseconds
+
+JAR JAR was found!
+Array index is 30
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2563 nanoseconds
+
+LANDO was found!
+Array index is 58
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4251 nanoseconds
+
+RED LEADER was found!
+Array index is 33
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2916 nanoseconds
+
+WEDGE was found!
+Array index is 5
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1168 nanoseconds
+
+BAIL ORGANA was found!
+Array index is 72
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5267 nanoseconds
+
+CAPTAIN PANAKA was found!
+Array index is 76
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 13325 nanoseconds
+
+MACE WINDU was found!
+Array index is 85
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5739 nanoseconds
+
+NUTE GUNRAY was found!
+Array index is 43
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3202 nanoseconds
+
+BIGGS was found!
+Array index is 88
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5792 nanoseconds
+
+GOLD LEADER was found!
+Array index is 46
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3326 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Array index is 102
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6775 nanoseconds
+
+TARKIN was found!
+Array index is 26
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2302 nanoseconds
+
+PIETT was found!
+Array index is 52
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3703 nanoseconds
+
+FODE/BEED was found!
+Array index is 109
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7521 nanoseconds
+
+RIC OLIE was found!
+Array index is 28
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2416 nanoseconds
+
+SHMI was found!
+Array index is 14
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1563 nanoseconds
+
+RUNE was found!
+Array index is 31
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2462 nanoseconds
+
+BOBA FETT was found!
+Array index is 62
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4403 nanoseconds
+
+OWEN was found!
+Array index is 32
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2602 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Array index is 66
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4694 nanoseconds
+
+WATTO was found!
+Array index is 4
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 776 nanoseconds
+
+LAMA SU was found!
+Array index is 70
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5018 nanoseconds
+
+COUNT DOOKU was found!
+Array index is 74
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4875 nanoseconds
+
+GOLD FIVE was found!
+Array index is 36
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2800 nanoseconds
+
+RED TEN was found!
+Array index is 38
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5766 nanoseconds
+
+SIO BIBBLE was found!
+Array index is 39
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3040 nanoseconds
+
+JABBA was found!
+Array index is 82
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5652 nanoseconds
+
+MAD MADDA was found!
+Array index is 40
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 5190 nanoseconds
+
+TAUN WE was found!
+Array index is 11
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1368 nanoseconds
+
+RIEEKAN was found!
+Array index is 20
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1834 nanoseconds
+
+CAPTAIN TYPHO was found!
+Array index is 90
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6291 nanoseconds
+
+ZEV was found!
+Array index is 1
+Tree depth is 0
+This node is not a leaf
+Size of subtree is 114
+Search time is 517 nanoseconds
+
+DARTH MAUL was found!
+Array index is 92
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6263 nanoseconds
+
+BRAVO TWO was found!
+Array index is 94
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6461 nanoseconds
+
+JANGO FETT was found!
+Array index is 97
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6620 nanoseconds
+
+BOSS NASS was found!
+Array index is 98
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6644 nanoseconds
+
+GENERAL CEEL was found!
+Array index is 101
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6658 nanoseconds
+
+TEY HOW was found!
+Array index is 6
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 963 nanoseconds
+
+TC-14 was found!
+Array index is 13
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1518 nanoseconds
+
+KITSTER was found!
+Array index is 53
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3995 nanoseconds
+
+RUWEE was found!
+Array index is 27
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2115 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Array index is 111
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8567 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Array index is 57
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 7321 nanoseconds
+
+KI-ADI-MUNDI was found!
+Array index is 113
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7779 nanoseconds
+
+ODD BALL was found!
+Array index is 29
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2499 nanoseconds
+
+MON MOTHMA was found!
+Array index is 59
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4327 nanoseconds
+
+BERU was found!
+Array index is 60
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4599 nanoseconds
+
+DACK was found!
+Array index is 61
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4123 nanoseconds
+
+JANSON was found!
+Array index is 63
+Tree depth is 5
+This node is a leaf
+Size of subtree is 10
+Search time is 4373 nanoseconds
+
+SEBULBA was found!
+Array index is 15
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1570 nanoseconds
+
+JIRA was found!
+Array index is 65
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4651 nanoseconds
+
+VALORUM was found!
+Array index is 16
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1674 nanoseconds
+
+WALD was found!
+Array index is 8
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1238 nanoseconds
+
+BRAVO THREE was found!
+Array index is 67
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4731 nanoseconds
+
+DOFINE was found!
+Array index is 68
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4801 nanoseconds
+
+TARPALS was found!
+Array index is 17
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1636 nanoseconds
+
+PK-4 was found!
+Array index is 35
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2814 nanoseconds
+
+GREEDO was found!
+Array index is 71
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4915 nanoseconds
+
+CLIEGG was found!
+Array index is 73
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 4926 nanoseconds
+
+SENATOR ASK AAK was found!
+Array index is 18
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1681 nanoseconds
+
+JOBAL was found!
+Array index is 75
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5036 nanoseconds
+
+ORN FREE TAA was found!
+Array index is 37
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 2958 nanoseconds
+
+POGGLE was found!
+Array index is 77
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7816 nanoseconds
+
+SOLA was found!
+Array index is 19
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 1964 nanoseconds
+
+SUN RIT was found!
+Array index is 9
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1165 nanoseconds
+
+PLO KOON was found!
+Array index is 79
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5717 nanoseconds
+
+FANG ZAR was found!
+Array index is 81
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5331 nanoseconds
+
+TION MEDON was found!
+Array index is 10
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1213 nanoseconds
+
+ON MEDON was found!
+Array index is 41
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3280 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Array index is 83
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5953 nanoseconds
+
+GIDDEAN DANU was found!
+Array index is 84
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 5712 nanoseconds
+
+MOTTI was found!
+Array index is 42
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3129 nanoseconds
+
+CAMIE was found!
+Array index is 86
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8608 nanoseconds
+
+DODONNA was found!
+Array index is 87
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8973 nanoseconds
+
+DERLIN was found!
+Array index is 89
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 8739 nanoseconds
+
+OZZEL was found!
+Array index is 22
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 3252 nanoseconds
+
+NEEDA was found!
+Array index is 45
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3553 nanoseconds
+
+BIB FORTUNA was found!
+Array index is 91
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6304 nanoseconds
+
+JERJERROD was found!
+Array index is 95
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6372 nanoseconds
+
+BOUSHH was found!
+Array index is 93
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9659 nanoseconds
+
+RABE was found!
+Array index is 47
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3650 nanoseconds
+
+REY was found!
+Array index is 23
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 2116 nanoseconds
+
+POE was found!
+Array index is 48
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3485 nanoseconds
+
+SNAP was found!
+Array index is 24
+Tree depth is 4
+This node is not a leaf
+Size of subtree is 12
+Search time is 3046 nanoseconds
+
+GENERAL HUX was found!
+Array index is 99
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 9450 nanoseconds
+
+SNOKE was found!
+Array index is 12
+Tree depth is 3
+This node is not a leaf
+Size of subtree is 16
+Search time is 1484 nanoseconds
+
+COLONEL DATOO was found!
+Array index is 100
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7096 nanoseconds
+
+KYLO REN was found!
+Array index is 50
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3644 nanoseconds
+
+JESS was found!
+Array index is 51
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3665 nanoseconds
+
+ELLO ASTY was found!
+Array index is 103
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 6911 nanoseconds
+
+NIV LEK was found!
+Array index is 105
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7457 nanoseconds
+
+YOLO ZIFF was found!
+Array index is 3
+Tree depth is 1
+This node is not a leaf
+Size of subtree is 38
+Search time is 1021 nanoseconds
+
+FINN was found!
+Array index is 106
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7402 nanoseconds
+
+ADMIRAL STATURA was found!
+Array index is 107
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 7365 nanoseconds
+
+CAPTAIN PHASMA was found!
+Array index is 108
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 19653 nanoseconds
+
+MAZ was found!
+Array index is 54
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 3980 nanoseconds
+
+BALA-TIK was found!
+Array index is 110
+Tree depth is 6
+This node is a leaf
+Size of subtree is 8
+Search time is 11268 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Array index is 55
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 6443 nanoseconds
+
+UNKAR PLUTT was found!
+Array index is 7
+Tree depth is 2
+This node is not a leaf
+Size of subtree is 22
+Search time is 1193 nanoseconds
+
+LOR SAN TEKKA was found!
+Array index is 56
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 10
+Search time is 4293 nanoseconds
+
+Average search took 4669 nanoseconds
+-------------------------------------------------------------------------------------
+Average insert time:   4270 nanoseconds
+Min: ADMIRAL ACKBAR
+Max: ZEV
+
+Items found!
+Search for min took 14283 nanoseconds.
+Search for max took 3641 nanoseconds.
+
+IN-ORDER TRAVERSAL:
+ADMIRAL ACKBAR, ADMIRAL STATURA, ANAKIN, BAIL ORGANA, BALA-TIK, BB-8, BERU, BIB FORTUNA, BIGGS, BOBA FETT, BOSS NASS, BOUSHH, BRAVO THREE, BRAVO TWO, 
+C-3PO, CAMIE, CAPTAIN ANTILLES, CAPTAIN PANAKA, CAPTAIN PHASMA, CAPTAIN TYPHO, CHEWBACCA, CLIEGG, CLONE COMMANDER CODY, CLONE COMMANDER GREE, COLONEL DATOO, COUNT DOOKU, DACK, DARTH MAUL, 
+DARTH VADER, DERLIN, DODONNA, DOFINE, ELLO ASTY, EMPEROR, FANG ZAR, FINN, FODE/BEED, GENERAL CEEL, GENERAL GRIEVOUS, GENERAL HUX, 
+GIDDEAN DANU, GOLD FIVE, GOLD LEADER, GREEDO, HAN, JABBA, JANGO FETT, JANSON, JAR JAR, JERJERROD, JESS, JIRA, JOBAL, 
+KI-ADI-MUNDI, KITSTER, KYLO REN, LAMA SU, LANDO, LEIA, LIEUTENANT MITAKA, LOR SAN TEKKA, LUKE, MACE WINDU, MAD MADDA, MAZ, 
+MON MOTHMA, MOTTI, NEEDA, NIV LEK, NUTE GUNRAY, OBI-WAN, ODD BALL, ON MEDON, ORN FREE TAA, OWEN, OZZEL, 
+PADME, PIETT, PK-4, PLO KOON, POE, POGGLE, QUI-GON, R2-D2, RABE, RED LEADER, RED TEN, REY, RIC OLIE, RIEEKAN, RUNE, RUWEE, SEBULBA, SENATOR ASK AAK, 
+SHMI, SIO BIBBLE, SNAP, SNOKE, SOLA, SUN RIT, TARKIN, TARPALS, TAUN WE, TC-14, 
+TEY HOW, TION MEDON, UNKAR PLUTT, VALORUM, WALD, WATTO, WEDGE, YODA, YOLO ZIFF, ZEV, 
+
+
+
+ANAKIN was found!
+Tree depth is 229
+This node is not a leaf
+Size of subtree is 7
+Search time is 1879 nanoseconds
+
+DARTH VADER was found!
+Tree depth is 223
+This node is not a leaf
+Size of subtree is 6
+Search time is 2123 nanoseconds
+
+LUKE was found!
+Tree depth is 171
+This node is not a leaf
+Size of subtree is 5
+Search time is 2254 nanoseconds
+
+OBI-WAN was found!
+Tree depth is 105
+This node is not a leaf
+Size of subtree is 4
+Search time is 2656 nanoseconds
+
+C-3PO was found!
+Tree depth is 51
+This node is not a leaf
+Size of subtree is 4
+Search time is 2193 nanoseconds
+
+R2-D2 was found!
+Tree depth is 87
+This node is not a leaf
+Size of subtree is 3
+Search time is 2960 nanoseconds
+
+CHEWBACCA was found!
+Tree depth is 27
+This node is not a leaf
+Size of subtree is 3
+Search time is 2572 nanoseconds
+
+HAN was found!
+Tree depth is 65
+This node is not a leaf
+Size of subtree is 3
+Search time is 2489 nanoseconds
+
+LEIA was found!
+Tree depth is 33
+This node is not a leaf
+Size of subtree is 2
+Search time is 2920 nanoseconds
+
+PADME was found!
+Tree depth is 25
+This node is not a leaf
+Size of subtree is 6
+Search time is 3037 nanoseconds
+
+QUI-GON was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 5
+Search time is 3628 nanoseconds
+
+EMPEROR was found!
+Tree depth is 31
+This node is not a leaf
+Size of subtree is 2
+Search time is 2990 nanoseconds
+
+YODA was found!
+Tree depth is 61
+This node is not a leaf
+Size of subtree is 2
+Search time is 3184 nanoseconds
+
+JAR JAR was found!
+Tree depth is 27
+This node is not a leaf
+Size of subtree is 4
+Search time is 3126 nanoseconds
+
+LANDO was found!
+Tree depth is 19
+This node is not a leaf
+Size of subtree is 3
+Search time is 5013 nanoseconds
+
+RED LEADER was found!
+Tree depth is 55
+This node is not a leaf
+Size of subtree is 7
+Search time is 3587 nanoseconds
+
+WEDGE was found!
+Tree depth is 51
+This node is not a leaf
+Size of subtree is 6
+Search time is 3836 nanoseconds
+
+BAIL ORGANA was found!
+Tree depth is 23
+This node is not a leaf
+Size of subtree is 6
+Search time is 2542 nanoseconds
+
+CAPTAIN PANAKA was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 2934 nanoseconds
+
+MACE WINDU was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 6
+Search time is 2810 nanoseconds
+
+NUTE GUNRAY was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 5
+Search time is 3171 nanoseconds
+
+BIGGS was found!
+Tree depth is 21
+This node is not a leaf
+Size of subtree is 5
+Search time is 2862 nanoseconds
+
+GOLD LEADER was found!
+Tree depth is 21
+This node is not a leaf
+Size of subtree is 1
+Search time is 3129 nanoseconds
+
+GENERAL GRIEVOUS was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 3
+Search time is 6803 nanoseconds
+
+TARKIN was found!
+Tree depth is 49
+This node is not a leaf
+Size of subtree is 5
+Search time is 5015 nanoseconds
+
+PIETT was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 4
+Search time is 4043 nanoseconds
+
+FODE/BEED was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 3811 nanoseconds
+
+RIC OLIE was found!
+Tree depth is 29
+This node is not a leaf
+Size of subtree is 4
+Search time is 4625 nanoseconds
+
+SHMI was found!
+Tree depth is 23
+This node is not a leaf
+Size of subtree is 3
+Search time is 4704 nanoseconds
+
+RUNE was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 3
+Search time is 5089 nanoseconds
+
+BOBA FETT was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 4
+Search time is 3378 nanoseconds
+
+OWEN was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 1
+Search time is 3411 nanoseconds
+
+ADMIRAL ACKBAR was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 2301 nanoseconds
+
+WATTO was found!
+Tree depth is 19
+This node is not a leaf
+Size of subtree is 4
+Search time is 6614 nanoseconds
+
+LAMA SU was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 2
+Search time is 4271 nanoseconds
+
+COUNT DOOKU was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 2
+Search time is 2982 nanoseconds
+
+GOLD FIVE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 4009 nanoseconds
+
+RED TEN was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 6250 nanoseconds
+
+SIO BIBBLE was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 9478 nanoseconds
+
+JABBA was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 4882 nanoseconds
+
+MAD MADDA was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 4
+Search time is 4634 nanoseconds
+
+TAUN WE was found!
+Tree depth is 17
+This node is not a leaf
+Size of subtree is 3
+Search time is 6169 nanoseconds
+
+RIEEKAN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 7369 nanoseconds
+
+CAPTAIN TYPHO was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 4187 nanoseconds
+
+ZEV was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3356 nanoseconds
+
+DARTH MAUL was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3226 nanoseconds
+
+BRAVO TWO was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 3
+Search time is 4775 nanoseconds
+
+JANGO FETT was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3791 nanoseconds
+
+BOSS NASS was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 3732 nanoseconds
+
+GENERAL CEEL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 6233 nanoseconds
+
+TEY HOW was found!
+Tree depth is 13
+This node is not a leaf
+Size of subtree is 2
+Search time is 6730 nanoseconds
+
+TC-14 was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 7170 nanoseconds
+
+KITSTER was found!
+Tree depth is 15
+This node is not a leaf
+Size of subtree is 1
+Search time is 4217 nanoseconds
+
+RUWEE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 17726 nanoseconds
+
+CLONE COMMANDER CODY was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 2
+Search time is 3346 nanoseconds
+
+CLONE COMMANDER GREE was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 3882 nanoseconds
+
+KI-ADI-MUNDI was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 2
+Search time is 7810 nanoseconds
+
+ODD BALL was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 5804 nanoseconds
+
+MON MOTHMA was found!
+Tree depth is 11
+This node is not a leaf
+Size of subtree is 3
+Search time is 6187 nanoseconds
+
+BERU was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 3371 nanoseconds
+
+DACK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 3527 nanoseconds
+
+JANSON was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 4315 nanoseconds
+
+SEBULBA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 32657 nanoseconds
+
+JIRA was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 2136 nanoseconds
+
+VALORUM was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 2691 nanoseconds
+
+WALD was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2031 nanoseconds
+
+BRAVO THREE was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1804 nanoseconds
+
+DOFINE was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 1368 nanoseconds
+
+TARPALS was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2145 nanoseconds
+
+PK-4 was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 3
+Search time is 1784 nanoseconds
+
+GREEDO was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1654 nanoseconds
+
+CLIEGG was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1607 nanoseconds
+
+SENATOR ASK AAK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2166 nanoseconds
+
+JOBAL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1915 nanoseconds
+
+ORN FREE TAA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1556 nanoseconds
+
+POGGLE was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1651 nanoseconds
+
+SOLA was found!
+Tree depth is 9
+This node is not a leaf
+Size of subtree is 1
+Search time is 2147 nanoseconds
+
+SUN RIT was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1807 nanoseconds
+
+PLO KOON was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1618 nanoseconds
+
+FANG ZAR was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1806 nanoseconds
+
+TION MEDON was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1988 nanoseconds
+
+ON MEDON was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1645 nanoseconds
+
+CAPTAIN ANTILLES was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1645 nanoseconds
+
+GIDDEAN DANU was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1780 nanoseconds
+
+MOTTI was found!
+Tree depth is 7
+This node is not a leaf
+Size of subtree is 2
+Search time is 1614 nanoseconds
+
+CAMIE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1523 nanoseconds
+
+DODONNA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1577 nanoseconds
+
+DERLIN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1354 nanoseconds
+
+OZZEL was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1480 nanoseconds
+
+NEEDA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1766 nanoseconds
+
+BIB FORTUNA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1582 nanoseconds
+
+JERJERROD was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1888 nanoseconds
+
+BOUSHH was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1860 nanoseconds
+
+RABE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1472 nanoseconds
+
+REY was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2316 nanoseconds
+
+POE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1908 nanoseconds
+
+SNAP was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1953 nanoseconds
+
+GENERAL HUX was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1939 nanoseconds
+
+SNOKE was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2224 nanoseconds
+
+COLONEL DATOO was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1604 nanoseconds
+
+KYLO REN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2293 nanoseconds
+
+JESS was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1880 nanoseconds
+
+ELLO ASTY was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1491 nanoseconds
+
+NIV LEK was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1759 nanoseconds
+
+YOLO ZIFF was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1556 nanoseconds
+
+FINN was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1724 nanoseconds
+
+ADMIRAL STATURA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1591 nanoseconds
+
+CAPTAIN PHASMA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1614 nanoseconds
+
+MAZ was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1707 nanoseconds
+
+BALA-TIK was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1457 nanoseconds
+
+LIEUTENANT MITAKA was found!
+Tree depth is 5
+This node is not a leaf
+Size of subtree is 1
+Search time is 1641 nanoseconds
+
+UNKAR PLUTT was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 2110 nanoseconds
+
+LOR SAN TEKKA was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1254 nanoseconds
+
+BB-8 was found!
+Tree depth is 3
+This node is a leaf
+Size of subtree is 0
+Search time is 1572 nanoseconds
+
+Average search took 374 nanoseconds
+-------------------------------------------------------------------------------------
+n = 500
+
+ArrayMinHeap created...
+NodeMaxHeap created...
+BinarySearchTree created...
+
+******************************************************************************************
